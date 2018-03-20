@@ -1,0 +1,4 @@
+9 scenarios (9 passed)
+56 steps (56 passed)
+0m0.719s
+Coverage report generated for Cucumber Features to /home/ec2-user/environment/HW3_sheena/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 52 / 53 LOC (98.11%) covered.
